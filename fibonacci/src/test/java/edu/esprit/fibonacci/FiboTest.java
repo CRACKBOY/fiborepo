@@ -16,6 +16,6 @@ public class FiboTest {
 	
 	@Test
 	public void itShouldReturnOneWhentow(){
-		assertEquals(5, 5);
+		assertEquals(1, f.process(2)); 
 	}  
 }
