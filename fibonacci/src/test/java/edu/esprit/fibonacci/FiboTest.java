@@ -10,7 +10,7 @@ public class FiboTest {
 	Fibo f;
 	
 	@Before
-	protected void setUp() throws Exception {
+	public void setUp() throws Exception {
 		f = new Fibo();
 	}
 	
