@@ -1,4 +1,4 @@
-package edu.esprit.fibo;
+package edu.esprit.fibonacci;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
